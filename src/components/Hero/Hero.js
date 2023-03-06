@@ -22,7 +22,6 @@ const Hero = (props) => (
           Technologies such as JAVASCRIPT , REACTJS , REDUX , NODEJS , EXPRESSJS
           , MONGODB
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
     </Section>
   </>

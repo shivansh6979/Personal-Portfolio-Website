@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Good hands on frontend development technologies such as HTML5 , CSS3 ,
+        Good hands on Web development technologies such as HTML5 , CSS3 ,
         JAVASCRIPT , REACTJS , REDUX , FIREBASE , GITHUB , NODEJS , ExpressJs ,
         Mongodb
       </SectionText>
